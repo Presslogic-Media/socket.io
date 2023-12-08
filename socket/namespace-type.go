@@ -3,8 +3,8 @@ package socket
 import (
 	"time"
 
-	"github.com/zishang520/engine.io/v2/events"
-	"github.com/zishang520/engine.io/v2/types"
+	"github.com/Presslogic-Media/engine.io/v2/events"
+	"github.com/Presslogic-Media/engine.io/v2/types"
 )
 
 // A namespace is a communication channel that allows you to split the logic of your application over a single shared

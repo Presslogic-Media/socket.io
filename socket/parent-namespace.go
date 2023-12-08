@@ -5,9 +5,9 @@ import (
 	"strconv"
 	"sync/atomic"
 
-	"github.com/zishang520/engine.io/v2/log"
-	"github.com/zishang520/engine.io/v2/types"
-	"github.com/zishang520/socket.io-go-parser/v2/parser"
+	"github.com/Presslogic-Media/engine.io/v2/log"
+	"github.com/Presslogic-Media/engine.io/v2/types"
+	"github.com/Presslogic-Media/socket.io-go-parser/v2/parser"
 )
 
 var (

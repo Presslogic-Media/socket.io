@@ -1,7 +1,7 @@
 # socket.io
 
-[![Build Status](https://github.com/zishang520/socket.io/workflows/Go/badge.svg?branch=main)](https://github.com/zishang520/socket.io/actions)
-[![GoDoc](https://pkg.go.dev/badge/github.com/zishang520/socket.io?utm_source=godoc)](https://pkg.go.dev/github.com/zishang520/socket.io)
+[![Build Status](https://github.com/Presslogic-Media/socket.io/workflows/Go/badge.svg?branch=main)](https://github.com/Presslogic-Media/socket.io/actions)
+[![GoDoc](https://pkg.go.dev/badge/github.com/Presslogic-Media/socket.io?utm_source=godoc)](https://pkg.go.dev/github.com/Presslogic-Media/socket.io)
 
 ## Features
 
@@ -28,7 +28,7 @@ Connections are established even in the presence of:
   - proxies and load balancers.
   - personal firewall and antivirus software.
 
-For this purpose, it relies on [Engine.IO for golang](https://github.com/zishang520/engine.io), which first establishes a long-polling connection, then tries to upgrade to better transports that are "tested" on the side, like WebSocket. Please see the [Goals](https://github.com/zishang520/engine.io#goals) section for more information.
+For this purpose, it relies on [Engine.IO for golang](https://github.com/Presslogic-Media/engine.io), which first establishes a long-polling connection, then tries to upgrade to better transports that are "tested" on the side, like WebSocket. Please see the [Goals](https://github.com/Presslogic-Media/engine.io#goals) section for more information.
 
 #### Auto-reconnection support
 
@@ -53,7 +53,7 @@ Sample code:
 
 ```golang
 import (
-    "github.com/zishang520/socket.io/v2/socket"
+    "github.com/Presslogic-Media/socket.io/v2/socket"
 )
 io.On("connection", func(clients ...any) {
     client := clients[0].(*socket.Socket)
@@ -84,9 +84,9 @@ The following example attaches socket.io to a plain engine.io *types.CreateServe
 package main
 
 import (
-    "github.com/zishang520/engine.io/v2/types"
-    "github.com/zishang520/engine.io/v2/utils"
-    "github.com/zishang520/socket.io/v2/socket"
+    "github.com/Presslogic-Media/engine.io/v2/types"
+    "github.com/Presslogic-Media/engine.io/v2/utils"
+    "github.com/Presslogic-Media/socket.io/v2/socket"
     "os"
     "os/signal"
     "syscall"
@@ -133,7 +133,7 @@ import (
     "os/signal"
     "syscall"
 
-    "github.com/zishang520/socket.io/v2/socket"
+    "github.com/Presslogic-Media/socket.io/v2/socket"
 )
 
 func main() {
@@ -172,7 +172,7 @@ func main() {
 
 ## Documentation
 
-Please see the documentation [here](https://pkg.go.dev/github.com/zishang520/socket.io).
+Please see the documentation [here](https://pkg.go.dev/github.com/Presslogic-Media/socket.io).
 
 ## Debug / logging
 
