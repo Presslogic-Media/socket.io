@@ -1,9 +1,9 @@
 package socket
 
 import (
-	"github.com/zishang520/engine.io/v2/events"
-	"github.com/zishang520/engine.io/v2/types"
-	"github.com/zishang520/socket.io-go-parser/v2/parser"
+	"github.com/Presslogic-Media/engine.io/v2/events"
+	"github.com/Presslogic-Media/engine.io/v2/types"
+	"github.com/Presslogic-Media/socket.io-go-parser/v2/parser"
 )
 
 type BroadcastAdapter func(*parser.Packet, *BroadcastOptions)

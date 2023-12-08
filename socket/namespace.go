@@ -7,9 +7,9 @@ import (
 	"sync/atomic"
 	"time"
 
+	"github.com/Presslogic-Media/engine.io/v2/log"
+	"github.com/Presslogic-Media/engine.io/v2/types"
 	"github.com/mitchellh/mapstructure"
-	"github.com/zishang520/engine.io/v2/log"
-	"github.com/zishang520/engine.io/v2/types"
 )
 
 var (
