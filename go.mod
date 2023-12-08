@@ -5,9 +5,9 @@ go 1.21
 require (
 	github.com/andybalholm/brotli v1.0.6
 	github.com/mitchellh/mapstructure v1.5.0
-	github.com/Presslogic-Media/engine.io-go-parser v1.2.3
-	github.com/Presslogic-Media/engine.io/v2 v2.0.3
-	github.com/Presslogic-Media/socket.io-go-parser/v2 v2.0.4
+	github.com/Presslogic-Media/engine.io-go-parser latest
+	github.com/Presslogic-Media/engine.io/v2 latest
+	github.com/Presslogic-Media/socket.io-go-parser/v2 latest
 )
 
 require (
