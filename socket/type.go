@@ -1,7 +1,7 @@
 package socket
 
 import (
-	"github.com/Presslogic-Media/engine.io/v2/types"
+	"github.com/zishang520/engine.io/v2/types"
 )
 
 type (
