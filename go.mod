@@ -1,4 +1,4 @@
-module github.com/Presslogic-Media/socket.io
+module github.com/Presslogic-Media/socket.io/v2
 
 go 1.21.2
 
