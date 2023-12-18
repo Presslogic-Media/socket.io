@@ -1,13 +1,14 @@
 module github.com/Presslogic-Media/socket.io/v2
 
-go 1.21
+go 1.21.2
 
 require (
 	github.com/andybalholm/brotli v1.0.6
 	github.com/mitchellh/mapstructure v1.5.0
-	github.com/Presslogic-Media/engine.io-go-parser latest
-	github.com/Presslogic-Media/engine.io/v2 latest
-	github.com/Presslogic-Media/socket.io-go-parser/v2 latest
+	github.com/zishang520/engine.io-go-parser v1.2.3
+	github.com/zishang520/engine.io/v2 v2.0.5
+	github.com/zishang520/socket.io-go-parser/v2 v2.0.4
+
 )
 
 require (

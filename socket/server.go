@@ -35,7 +35,7 @@ type (
 	// Represents a Socket.IO server.
 	//
 	//	import (
-	//		"github.com/Presslogic-Media/engine.io/v2/utils"
+	//		"github.com/zishang520/engine.io/v2/utils"
 	//		"github.com/Presslogic-Media/socket.io/v2/socket"
 	//	)
 	//

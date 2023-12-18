@@ -1,7 +1,9 @@
 # socket.io
 
 [![Build Status](https://github.com/Presslogic-Media/socket.io/workflows/Go/badge.svg?branch=main)](https://github.com/Presslogic-Media/socket.io/actions)
+
 [![GoDoc](https://pkg.go.dev/badge/github.com/Presslogic-Media/socket.io/v2?utm_source=godoc)](https://pkg.go.dev/github.com/Presslogic-Media/socket.io/v2)
+
 
 ## Features
 
@@ -84,6 +86,7 @@ The following example attaches socket.io to a plain engine.io *types.CreateServe
 package main
 
 import (
+
     "github.com/Presslogic-Media/engine.io/v2/types"
     "github.com/Presslogic-Media/engine.io/v2/utils"
     "github.com/Presslogic-Media/socket.io/v2/socket"
@@ -172,7 +175,9 @@ func main() {
 
 ## Documentation
 
-Please see the documentation [here](https://pkg.go.dev/github.com/Presslogic-Media/socket.io/v2).
+
+Please see the documentation [here](https://pkg.go.dev/github.com/Presslogic-Media/socket.io).
+
 
 ## Debug / logging
 
