@@ -4,12 +4,12 @@ import (
 	"net/url"
 	"sync"
 
-	_types "github.com/Presslogic-Media/engine.io-go-parser/types"
-	"github.com/Presslogic-Media/engine.io/v2/engine"
-	"github.com/Presslogic-Media/engine.io/v2/log"
-	"github.com/Presslogic-Media/engine.io/v2/types"
-	"github.com/Presslogic-Media/engine.io/v2/utils"
-	"github.com/Presslogic-Media/socket.io-go-parser/v2/parser"
+	_types "github.com/zishang520/engine.io-go-parser/types"
+	"github.com/zishang520/engine.io/v2/engine"
+	"github.com/zishang520/engine.io/v2/log"
+	"github.com/zishang520/engine.io/v2/types"
+	"github.com/zishang520/engine.io/v2/utils"
+	"github.com/zishang520/socket.io-go-parser/v2/parser"
 )
 
 var client_log = log.NewLog("socket.io:client")
