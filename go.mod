@@ -3,10 +3,10 @@ module github.com/Presslogic-Media/socket.io/v2
 go 1.21.2
 
 require (
+	github.com/Presslogic-Media/engine.io/v2 v2.0.7
 	github.com/andybalholm/brotli v1.0.6
 	github.com/mitchellh/mapstructure v1.5.0
 	github.com/zishang520/engine.io-go-parser v1.2.3
-	github.com/zishang520/engine.io/v2 v2.0.5
 	github.com/zishang520/socket.io-go-parser/v2 v2.0.4
 
 )
@@ -24,6 +24,7 @@ require (
 	github.com/vmihailenco/msgpack/v5 v5.4.1 // indirect
 	github.com/vmihailenco/tagparser/v2 v2.0.0 // indirect
 	github.com/xo/terminfo v0.0.0-20210125001918-ca9a967f8778 // indirect
+	github.com/zishang520/engine.io/v2 v2.0.3 // indirect
 	go.uber.org/mock v0.3.0 // indirect
 	golang.org/x/crypto v0.14.0 // indirect
 	golang.org/x/exp v0.0.0-20230817173708-d852ddb80c63 // indirect

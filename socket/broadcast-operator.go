@@ -7,8 +7,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/zishang520/engine.io/v2/types"
-	"github.com/zishang520/engine.io/v2/utils"
+	"github.com/Presslogic-Media/engine.io/v2/types"
+	"github.com/Presslogic-Media/engine.io/v2/utils"
 	"github.com/zishang520/socket.io-go-parser/v2/parser"
 )
 

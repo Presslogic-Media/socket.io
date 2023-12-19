@@ -1,3 +1,5 @@
+github.com/Presslogic-Media/engine.io/v2 v2.0.7 h1:Xkghsdvn20pghlJGnOPkZ2Yf2ELs6h3Nh+XNwFTQv3A=
+github.com/Presslogic-Media/engine.io/v2 v2.0.7/go.mod h1:tNtKGjACVwd+pP1OYrINIFKnQn6uEcsmlSjBmGd3oc4=
 github.com/andybalholm/brotli v1.0.6 h1:Yf9fFpf49Zrxb9NlQaluyE92/+X7UVHlhMNJN2sxfOI=
 github.com/andybalholm/brotli v1.0.6/go.mod h1:fO7iG3H7G2nSZ7m0zPUDn85XEX2GTukHGRSepvi9Eig=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
@@ -47,6 +49,8 @@ github.com/xo/terminfo v0.0.0-20210125001918-ca9a967f8778 h1:QldyIu/L63oPpyvQmHg
 github.com/xo/terminfo v0.0.0-20210125001918-ca9a967f8778/go.mod h1:2MuV+tbUrU1zIOPMxZ5EncGwgmMJsa+9ucAQZXxsObs=
 github.com/zishang520/engine.io-go-parser v1.2.3 h1:y++zdMKIFgyVvH60TEEHw8gdJkS/qy22wesdALoh+HA=
 github.com/zishang520/engine.io-go-parser v1.2.3/go.mod h1:UrXBVZWQgyHDITYmhnxi2d+NpEWBN8dACboD4dXcx38=
+github.com/zishang520/engine.io/v2 v2.0.3 h1:YXT4ZF40k1hyjbh4IBbP+hw4mp7F3Mx9ZwoIJm39b4Y=
+github.com/zishang520/engine.io/v2 v2.0.3/go.mod h1:HM5pZZMFI/dNNmuwePLsaiGM67VY6vxJ5Isp+QRylMU=
 github.com/zishang520/engine.io/v2 v2.0.5 h1:CEUSlg9UMavI9f6WDQgsbIimJCxKX4Dy2+Ehht5qjdA=
 github.com/zishang520/engine.io/v2 v2.0.5/go.mod h1:HM5pZZMFI/dNNmuwePLsaiGM67VY6vxJ5Isp+QRylMU=
 github.com/zishang520/socket.io-go-parser/v2 v2.0.4 h1:PxzWPrTxueiKXFZJQduJ9sIIzsBbHMi9XO5nTLbIjS4=

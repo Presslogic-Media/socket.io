@@ -4,11 +4,11 @@ import (
 	"net/url"
 	"sync"
 
+	"github.com/Presslogic-Media/engine.io/v2/engine"
+	"github.com/Presslogic-Media/engine.io/v2/log"
+	"github.com/Presslogic-Media/engine.io/v2/types"
+	"github.com/Presslogic-Media/engine.io/v2/utils"
 	_types "github.com/zishang520/engine.io-go-parser/types"
-	"github.com/zishang520/engine.io/v2/engine"
-	"github.com/zishang520/engine.io/v2/log"
-	"github.com/zishang520/engine.io/v2/types"
-	"github.com/zishang520/engine.io/v2/utils"
 	"github.com/zishang520/socket.io-go-parser/v2/parser"
 )
 
